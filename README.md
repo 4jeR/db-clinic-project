@@ -2,7 +2,9 @@
 Projekt końcowy zrealizowany w ramach zajęć Bazy Danych I na AGH 2019/2020  
 Final project done for subject Data Bases I at AGH UST 2019/2020.
 
-#### INSTALACJA MODUŁU / MODULE INSTALATION: TKinter (GUI):
+Potrzebne moduły / required modules:
+Tkinter, psycopg2
+#### INSTALACJA MODUŁU / MODULE INSTALATION: Tkinter (GUI):
 
 `sudo apt-get install python3-tk`
 
