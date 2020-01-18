@@ -1,5 +1,5 @@
 ## db-clinic-project
-Projekt końcowy zrealizowany w ramach zajęć Bazy Danych I na AGH 2019/2020.
+Projekt końcowy zrealizowany w ramach zajęć Bazy Danych I na AGH 2019/2020  
 Final project done for subject Data Bases I at AGH UST 2019/2020.
 
 #### INSTALACJA MODUŁU / MODULE INSTALATION: TKinter (GUI):
@@ -15,5 +15,5 @@ https://pypi.org/project/psycopg2/
 
 #### ABY WŁĄCZYĆ APLIKACJĘ / TO RUN THE APPLICATION:
 
-`cd python`
+`cd python`  
 `python3 run.py`
